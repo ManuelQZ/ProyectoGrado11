@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f9f9f9; /* fondo claro */
+}
+
+h1 {
+    color: #333; /* título oscuro */
+    margin-bottom: 20px; /* espacio entre título y párrafo */
+}
+
+ul {
+    list-style: none; /* quita los puntos de la lista */
+    padding: 0; /* quita el padding de la lista */
+    margin: 20px 0; /* espacio entre lista y párrafo */
+}
+
+li {
+    margin-bottom: 10px; /* espacio entre elementos de la lista */
+}
+
+form {
+    margin-top: 20px; /* espacio entre lista y formulario */
+}
+
+label {
+    display: block; /* cada label en una línea */
+    margin-bottom: 10px; /* espacio entre labels */
+}
+
+input[type="checkbox"] {
+    margin-right: 10px; /* espacio entre checkbox y texto */
+}
